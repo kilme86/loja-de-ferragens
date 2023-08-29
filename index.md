@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-![](assets/ferragens.png)
+![](assets/ferragens.jpg)
